@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br>🌱 I’m currently learning MERN<br>💬 Ask me about<br>⚡ Fun fact 
+🔭 I’m currently working on Full Stack Web Development<br>🌱 I’m currently learning MERN<br>
 
 
 ## 🌐 Socials:
