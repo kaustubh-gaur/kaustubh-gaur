@@ -1,3 +1,4 @@
+<img src=" https://github.com/kaustubh-gaur/kaustubh-gaur/blob/main/aof3-cactus-gas-station2.gif" alt = "Tell me about yourself till the image is loading : )">
 <h1 align="center">Hi 👋, I'm Kaustubh Gaur</h1>
 <h3 align="center">I write code. Sometimes it even works. 😎</h3>
 
